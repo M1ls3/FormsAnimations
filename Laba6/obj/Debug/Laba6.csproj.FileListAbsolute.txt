@@ -1,0 +1,11 @@
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\bin\Debug\Laba6.exe.config
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\bin\Debug\Laba6.exe
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\bin\Debug\Laba6.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\obj\Debug\Laba6.csproj.AssemblyReference.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\obj\Debug\Laba6.Form1.resources
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\obj\Debug\Laba6.Properties.Resources.resources
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\obj\Debug\Laba6.csproj.GenerateResource.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\obj\Debug\Laba6.csproj.CoreCompileInputs.cache
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\obj\Debug\Laba6.exe
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\obj\Debug\Laba6.pdb
+C:\!Dizox\Лаби\ЧНУ\2022 рiк 2 семестр 1 курсу\ПАЛМ\Лаба 6\Laba6\obj\Debug\Laba6.csproj.SuggestedBindingRedirects.cache
